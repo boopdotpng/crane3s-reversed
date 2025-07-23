@@ -1,5 +1,5 @@
 import asyncio, random
-from bleak import BleakScanner, BleakClient
+from bleak import BleakClient
 
 # add your bluetooth address here; if you're on mac you have to use the core bluetooth UUID, which differs per device. 
 ADDRESS = "" 
